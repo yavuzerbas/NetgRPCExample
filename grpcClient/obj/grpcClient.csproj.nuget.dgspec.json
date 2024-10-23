@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yavuz.erbas\\Desktop\\grpcExample\\grpcClient\\grpcClient.csproj": {}
+    "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\grpcClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yavuz.erbas\\Desktop\\grpcExample\\grpcClient\\grpcClient.csproj": {
+    "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\grpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yavuz.erbas\\Desktop\\grpcExample\\grpcClient\\grpcClient.csproj",
+        "projectUniqueName": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\grpcClient.csproj",
         "projectName": "grpcClient",
-        "projectPath": "C:\\Users\\yavuz.erbas\\Desktop\\grpcExample\\grpcClient\\grpcClient.csproj",
-        "packagesPath": "C:\\Users\\yavuz.erbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yavuz.erbas\\Desktop\\grpcExample\\grpcClient\\obj\\",
+        "projectPath": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\grpcClient.csproj",
+        "packagesPath": "C:\\Users\\yavuz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yavuz.erbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yavuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

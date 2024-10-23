@@ -790,19 +790,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yavuz.erbas\\.nuget\\packages\\": {}
+    "C:\\Users\\yavuz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yavuz.erbas\\Desktop\\grpcExample\\grpcServer\\grpcServer.csproj",
+      "projectUniqueName": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\grpcServer.csproj",
       "projectName": "grpcServer",
-      "projectPath": "C:\\Users\\yavuz.erbas\\Desktop\\grpcExample\\grpcServer\\grpcServer.csproj",
-      "packagesPath": "C:\\Users\\yavuz.erbas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yavuz.erbas\\Desktop\\grpcExample\\grpcServer\\obj\\",
+      "projectPath": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\grpcServer.csproj",
+      "packagesPath": "C:\\Users\\yavuz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yavuz.erbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yavuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -858,7 +858,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
