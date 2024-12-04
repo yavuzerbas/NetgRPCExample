@@ -1,22 +1,20 @@
 ﻿using Grpc.Net.Client;
-using grpcClient;
-/*using grpcClient;
+using grpcMessageClient;
 
 var channel = GrpcChannel.ForAddress("http://localhost:5187");
-var greetClient = new Greeter.GreeterClient(channel);    
+//var greetClient = new Greeter.GreeterClient(channel);
+var messageClient = new Message.MessageClient(channel);
 
-HelloReply helloReply = await greetClient.SayHelloAsync(new HelloRequest{
-    Name = "Test greeting"
+var response = messageClient.SendMessage(new MessageRequest
+{
+    Message = "",
+    Name = "Test user",
 });
 
-System.Console.WriteLine(helloReply.Message);
-*/
+var cancellationTokenSource = new CancellationTokenSource();
+while (await response.ResponseStream.MoveNext(cancellationTokenSource.Token))
+{
+    System.Console.WriteLine(response.ResponseStream.Current.Message);
 
-var channel = GrpcChannel.ForAddress("http://localhost:5187");
-var greetClient = new Greeter.GreeterClient(channel);
+}
 
-HelloReply result = await greetClient.SayHelloAsync(new HelloRequest{
-    Name = "Test user"
-});
-
-System.Console.WriteLine(result.Message);

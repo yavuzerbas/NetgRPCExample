@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcserver\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcserver\\protos\\message.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\protos\\message.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAEF935E-8031-4359-A712-E94AEBC6CF53}|grpcClient\\grpcClient.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +15,28 @@
       "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcserver\\protos\\message.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\protos\\message.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEF935E-8031-4359-A712-E94AEBC6CF53}|grpcClient\\grpcClient.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcclient\\message.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DAEF935E-8031-4359-A712-E94AEBC6CF53}|grpcClient\\grpcClient.csproj|solutionrelative:grpcclient\\message.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcserver\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DAEF935E-8031-4359-A712-E94AEBC6CF53}|grpcClient\\grpcClient.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcclient\\grpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DAEF935E-8031-4359-A712-E94AEBC6CF53}|grpcClient\\grpcClient.csproj|solutionrelative:grpcclient\\grpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAEF935E-8031-4359-A712-E94AEBC6CF53}|grpcClient\\grpcClient.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcclient\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{DAEF935E-8031-4359-A712-E94AEBC6CF53}|grpcClient\\grpcClient.csproj|solutionrelative:grpcclient\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|c:\\users\\yavuz\\onedrive\\documents\\amygitprojects\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21D58A01-7780-4CD5-96E0-72DEC0229592}|grpcServer\\grpcServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,51 +90,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "message.proto",
+              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\message.proto",
+              "RelativeDocumentMoniker": "grpcClient\\message.proto",
+              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\message.proto",
+              "RelativeToolTip": "grpcClient\\message.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-23T19:28:21.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "message.proto",
               "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Protos\\message.proto",
               "RelativeDocumentMoniker": "grpcServer\\Protos\\message.proto",
               "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Protos\\message.proto",
               "RelativeToolTip": "grpcServer\\Protos\\message.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
               "WhenOpened": "2024-10-23T13:20:40.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MessageService.cs",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Services\\MessageService.cs",
-              "RelativeDocumentMoniker": "grpcServer\\Services\\MessageService.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Services\\MessageService.cs",
-              "RelativeToolTip": "grpcServer\\Services\\MessageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\Program.cs",
+              "RelativeDocumentMoniker": "grpcClient\\Program.cs",
+              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\Program.cs",
+              "RelativeToolTip": "grpcClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:18:59.007Z",
+              "WhenOpened": "2024-10-23T09:35:31.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "grpcServer\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "grpcServer\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T09:38:58.638Z"
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Program.cs",
+              "RelativeDocumentMoniker": "grpcServer\\Program.cs",
+              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Program.cs",
+              "RelativeToolTip": "grpcServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:35:38.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "grpcServer.csproj",
               "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\grpcServer.csproj",
               "RelativeDocumentMoniker": "grpcServer\\grpcServer.csproj",
               "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\grpcServer.csproj",
               "RelativeToolTip": "grpcServer\\grpcServer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-23T09:38:55.103Z",
               "EditorCaption": ""
@@ -138,19 +156,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "grpcClient.csproj",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\grpcClient.csproj",
-              "RelativeDocumentMoniker": "grpcClient\\grpcClient.csproj",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\grpcClient.csproj",
-              "RelativeToolTip": "grpcClient\\grpcClient.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T09:36:50.956Z",
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "grpcServer\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Services\\MessageService.cs",
+              "RelativeToolTip": "grpcServer\\Services\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:18:59.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "grpcServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "grpcServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T09:38:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "greet.proto",
               "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\greet.proto",
               "RelativeDocumentMoniker": "grpcClient\\greet.proto",
@@ -163,26 +194,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Program.cs",
-              "RelativeDocumentMoniker": "grpcServer\\Program.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcServer\\Program.cs",
-              "RelativeToolTip": "grpcServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T09:35:38.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\Program.cs",
-              "RelativeDocumentMoniker": "grpcClient\\Program.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\Program.cs",
-              "RelativeToolTip": "grpcClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T09:35:31.402Z",
+              "Title": "grpcClient.csproj",
+              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\grpcClient.csproj",
+              "RelativeDocumentMoniker": "grpcClient\\grpcClient.csproj",
+              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Documents\\AMyGitProjects\\grpcClient\\grpcClient.csproj",
+              "RelativeToolTip": "grpcClient\\grpcClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T09:36:50.956Z",
               "EditorCaption": ""
             }
           ]
